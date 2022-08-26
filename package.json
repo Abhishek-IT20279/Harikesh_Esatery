@@ -40,6 +40,9 @@
     ]
   },
   "devDependencies": {
-    "netlify-cli": "^11.5.0"
+    "netlify-cli": "^11.5.0",
+    "engines": {
+      "node": ">=15.0.0"
+    }
   }
 }
